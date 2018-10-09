@@ -11,5 +11,6 @@ public class TestClass {
 	@Test
 	public void loginPage(){
 		main.loginPage();
+		System.out.println("Hello");
 	}
 }
